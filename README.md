@@ -8,6 +8,4 @@ At the predetermined block height, Bitcoin Hot miners will begin creating blocks
 ## Links
 
 * Website: http://bithot.org
-* Slack: https://bitcoinhotfoundation.slack.com/?redir=%2Fthreads
 * BlockExplorer: http://block.bithot.org
-* Guide of claiming BTH: http://bithot.org/Guide%20of%20Claiming%20BTH.pdf
